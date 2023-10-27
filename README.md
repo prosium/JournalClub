@@ -13,3 +13,7 @@ STING inhibits the reactivation of dormant metastasis in lung adenocarcinoma
 ## 1024
 Intestinal B cells license metabolic T-cell activation in NASH microbiota/antigen-independently and contribute to fibrosis by IgA-FcR signalling
 <br> https://pubmed.ncbi.nlm.nih.gov/37224925/
+
+## 1031
+Clonal haematopoiesis and risk of chronic liver disease
+<br> https://pubmed.ncbi.nlm.nih.gov/37046084/
