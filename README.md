@@ -17,3 +17,7 @@ Intestinal B cells license metabolic T-cell activation in NASH microbiota/antige
 ## 1031, Nature, 2023 
 Clonal haematopoiesis and risk of chronic liver disease
 <br> https://pubmed.ncbi.nlm.nih.gov/37046084/
+
+## 1114, Cancer Cell, 2023
+Transformer-based biomarker prediction from colorectal cancer histology: A large-scale multicentric study
+<br> https://pubmed.ncbi.nlm.nih.gov/37652006/
