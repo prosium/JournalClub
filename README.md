@@ -21,3 +21,7 @@ Clonal haematopoiesis and risk of chronic liver disease
 ## 1114, Cancer Cell, 2023
 Transformer-based biomarker prediction from colorectal cancer histology: A large-scale multicentric study
 <br> https://pubmed.ncbi.nlm.nih.gov/37652006/
+
+## 1121, Nature, 2023
+A pangenome reference of 36 Chinese populations
+<br> https://pubmed.ncbi.nlm.nih.gov/37316654/
