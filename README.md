@@ -27,7 +27,7 @@ Intestinal B cells license metabolic T-cell activation in NASH microbiota/antige
 STING inhibits the reactivation of dormant metastasis in lung adenocarcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/36991128/
 
-## 1010, Nat Communications, 2021
+## 1010, Nature Communications, 2021
 Identical twins carry a persistent epigenetic signature of early genome programming
 <br> https://pubmed.ncbi.nlm.nih.gov/34584077/
 
