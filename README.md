@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2023
 
+## 1212, Cell Reports, 2023
+Stomach encyclopedia: Combined single-cell and spatial transcriptomics reveal cell diversity and homeostatic regulation of human stomach
+<br> https://pubmed.ncbi.nlm.nih.gov/37819756/
+
 ## 1205, Nature Communications, 2023
 Identifying high-impact variants and genes in exomes of Ashkenazi Jewish inflammatory bowel disease patients
 <br> https://pubmed.ncbi.nlm.nih.gov/37080976/
