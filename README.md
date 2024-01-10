@@ -1,11 +1,18 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-# 2023
+# 2024
 
-## XXXX, Cell Reports, 2023
+## 0109, Cell Reports, 2023
+Single-cell transcriptome analysis reveals functional changes in tumour-infiltrating B lymphocytes after chemotherapy in oesophageal squamous cell carcinoma
+<br> https://pubmed.ncbi.nlm.nih.gov/36650114/
+
+## 0102, Cell Reports, 2023
 Stomach encyclopedia: Combined single-cell and spatial transcriptomics reveal cell diversity and homeostatic regulation of human stomach
 <br> https://pubmed.ncbi.nlm.nih.gov/37819756/
+
+
+# 2023
 
 ## 1205, Nature Communications, 2023
 Identifying high-impact variants and genes in exomes of Ashkenazi Jewish inflammatory bowel disease patients
