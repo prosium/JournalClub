@@ -3,7 +3,11 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
-## 0109, Cell Reports, 2023
+## 0116, Cell, 2023
+Pan-cancer proteogenomics connects oncogenic drivers to functional states
+<br> https://pubmed.ncbi.nlm.nih.gov/37582357/
+
+## 0109, Clinical and Translational Medicine, 2023
 Single-cell transcriptome analysis reveals functional changes in tumour-infiltrating B lymphocytes after chemotherapy in oesophageal squamous cell carcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/36650114/
 
@@ -30,7 +34,7 @@ Transformer-based biomarker prediction from colorectal cancer histology: A large
 Clonal haematopoiesis and risk of chronic liver disease
 <br> https://pubmed.ncbi.nlm.nih.gov/37046084/
 
-## 1024, Jounnal of Hepatology, 2023
+## 1024, Journal of Hepatology, 2023
 Intestinal B cells license metabolic T-cell activation in NASH microbiota/antigen-independently and contribute to fibrosis by IgA-FcR signalling
 <br> https://pubmed.ncbi.nlm.nih.gov/37224925/
 
