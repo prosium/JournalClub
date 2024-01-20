@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 0130, Cancer Cell, 2024
+Interferon-stimulated neutrophils as a predictor of immunotherapy response
+<br> https://pubmed.ncbi.nlm.nih.gov/38181798/
+
 ## 0116, Cell, 2023
 Pan-cancer proteogenomics connects oncogenic drivers to functional states
 <br> https://pubmed.ncbi.nlm.nih.gov/37582357/
