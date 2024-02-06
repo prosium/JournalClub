@@ -3,7 +3,7 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
-## 0130, Cancer Cell, 2024
+## 0206, Cancer Cell, 2024
 Interferon-stimulated neutrophils as a predictor of immunotherapy response
 <br> https://pubmed.ncbi.nlm.nih.gov/38181798/
 
