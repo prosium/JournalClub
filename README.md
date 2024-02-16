@@ -2,6 +2,9 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2024
+## 0220, Nature, 2023
+Epigenetic regulation during cancer transitions across 11 tumour types
+<br> https://pubmed.ncbi.nlm.nih.gov/37914932/
 
 ## 0213, Cell Reports, 2023
 Temporal multimodal single-cell profiling of native hematopoiesis illuminates altered differentiation trajectories with age
