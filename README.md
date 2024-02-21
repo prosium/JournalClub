@@ -2,7 +2,7 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2024
-## 0220, Nature, 2023
+## 0227, Nature, 2023
 Epigenetic regulation during cancer transitions across 11 tumour types
 <br> https://pubmed.ncbi.nlm.nih.gov/37914932/
 
