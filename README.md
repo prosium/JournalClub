@@ -2,6 +2,10 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2024
+## 0319, Cell Metabolism, 2023
+Hyodeoxycholic acid alleviates non-alcoholic fatty liver disease through modulating the gut-liver axis
+<br> https://pubmed.ncbi.nlm.nih.gov/37591244/
+
 ## 0227, Nature, 2023
 Epigenetic regulation during cancer transitions across 11 tumour types
 <br> https://pubmed.ncbi.nlm.nih.gov/37914932/
