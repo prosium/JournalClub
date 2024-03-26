@@ -2,6 +2,10 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2024
+## 0326, Nucleic Acids Research, 2024
+MethMarkerDB: a comprehensive cancer DNA methylation biomarker database
+<br> https://pubmed.ncbi.nlm.nih.gov/37889076/
+
 ## 0319, Cell Metabolism, 2023
 Hyodeoxycholic acid alleviates non-alcoholic fatty liver disease through modulating the gut-liver axis
 <br> https://pubmed.ncbi.nlm.nih.gov/37591244/
