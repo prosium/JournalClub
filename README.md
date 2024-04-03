@@ -2,6 +2,10 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2024
+## 0402, Genome Medicine, 2022
+Genome-wide interrogation of structural variation reveals novel African-specific prostate cancer oncogenic drivers
+<br> https://pubmed.ncbi.nlm.nih.gov/36045381/
+
 ## 0326, Nucleic Acids Research, 2024
 MethMarkerDB: a comprehensive cancer DNA methylation biomarker database
 <br> https://pubmed.ncbi.nlm.nih.gov/37889076/
