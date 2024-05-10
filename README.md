@@ -2,6 +2,15 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2024
+
+## 0507, Journal of Hepatology, 2024
+TRIB3-TRIM8 complex drives NAFLD progression by regulating HNF4α stability
+<br> https://pubmed.ncbi.nlm.nih.gov/38237865/
+
+## 0409, Nature Communications, 2024
+Integrating leiomyoma genetics, epigenomics, and single-cell transcriptomics reveals causal genetic variants, genes, and cell types
+<br> https://pubmed.ncbi.nlm.nih.gov/38326302/
+
 ## 0402, Genome Medicine, 2022
 Genome-wide interrogation of structural variation reveals novel African-specific prostate cancer oncogenic drivers
 <br> https://pubmed.ncbi.nlm.nih.gov/36045381/
