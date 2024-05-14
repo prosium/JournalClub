@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 0521, Cell, 2020
+Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin
+<br> https://pubmed.ncbi.nlm.nih.gov/33098772/
+
 ## 0507, Journal of Hepatology, 2024
 TRIB3-TRIM8 complex drives NAFLD progression by regulating HNF4α stability
 <br> https://pubmed.ncbi.nlm.nih.gov/38237865/
