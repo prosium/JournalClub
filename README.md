@@ -3,6 +3,14 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 0618, Cancer Discovery, 2024
+Deep-Learning Model for Tumor-Type Prediction Using Targeted Clinical Genomic Sequencing Data
+<br> https://pubmed.ncbi.nlm.nih.gov/38416134/
+
+## 0611, Cell Research, 2023
+An invasive zone in human liver cancer identified by Stereo-seq promotes hepatocyte-tumor cell crosstalk, local immunosuppression and tumor progression
+<br> https://pubmed.ncbi.nlm.nih.gov/37337030/
+
 ## 0521, Cell, 2020
 Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin
 <br> https://pubmed.ncbi.nlm.nih.gov/33098772/
