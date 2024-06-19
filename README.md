@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 0625, Science, 2024
+An immunogenetic basis for lung cancer risk
+<br> https://pubmed.ncbi.nlm.nih.gov/38386728/
+
 ## 0618, Cancer Discovery, 2024
 Deep-Learning Model for Tumor-Type Prediction Using Targeted Clinical Genomic Sequencing Data
 <br> https://pubmed.ncbi.nlm.nih.gov/38416134/
