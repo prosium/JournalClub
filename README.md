@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 0709, British Journal of Dermatology
+A genome-wide association study identifies novel gene associations with facial skin wrinkling and mole count in Latin Americans
+<br> https://pubmed.ncbi.nlm.nih.gov/33959940/
+
 ## 0625, Science, 2024
 An immunogenetic basis for lung cancer risk
 <br> https://pubmed.ncbi.nlm.nih.gov/38386728/
