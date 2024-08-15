@@ -3,7 +3,11 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
-## 0709, British Journal of Dermatology
+## 0820, Nature, 2023
+A Draft Human Pangenome Reference
+<br> https://pubmed.ncbi.nlm.nih.gov/37165242/
+
+## 0709, British Journal of Dermatology, 2021
 A genome-wide association study identifies novel gene associations with facial skin wrinkling and mole count in Latin Americans
 <br> https://pubmed.ncbi.nlm.nih.gov/33959940/
 
