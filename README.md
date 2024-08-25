@@ -5,7 +5,7 @@ Seon-Young Kim's LAB in KRIBB
 
 ## 0826, Nature, 2024
 A disease-associated gene desert directs macrophage inflammation through ETS2
-https://pubmed.ncbi.nlm.nih.gov/38839969/
+<br> https://pubmed.ncbi.nlm.nih.gov/38839969/
 
 ## 0820, Nature, 2023
 A Draft Human Pangenome Reference
