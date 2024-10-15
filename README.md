@@ -3,6 +3,14 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 1022, Immunity, 2024
+An exhausted-like microglial population accumulates in aged and APOE4 genotype Alzheimer's brains
+<br> https://pubmed.ncbi.nlm.nih.gov/38159571/
+
+## 0910, Nature, 2024
+Durable and efficient gene silencing in vivo by hit-and-run epigenome editing
+<br> https://pubmed.ncbi.nlm.nih.gov/38418872/
+
 ## 0826, Nature, 2024
 A disease-associated gene desert directs macrophage inflammation through ETS2
 <br> https://pubmed.ncbi.nlm.nih.gov/38839969/
