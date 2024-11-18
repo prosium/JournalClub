@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 1118, Cell, 2024
+Pan-cancer proteogenomics expands the landscape of therapeutic targets
+<br> https://pubmed.ncbi.nlm.nih.gov/38917788/
+
 ## 1022, Immunity, 2024
 An exhausted-like microglial population accumulates in aged and APOE4 genotype Alzheimer's brains
 <br> https://pubmed.ncbi.nlm.nih.gov/38159571/
