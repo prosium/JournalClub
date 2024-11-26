@@ -3,6 +3,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2024
 
+## 1126, Cell, 2024
+Metformin decelerates aging clock in male monkeys
+<br> https://pubmed.ncbi.nlm.nih.gov/39270656/
+
 ## 1118, Cell, 2024
 Pan-cancer proteogenomics expands the landscape of therapeutic targets
 <br> https://pubmed.ncbi.nlm.nih.gov/38917788/
