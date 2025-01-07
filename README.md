@@ -1,7 +1,15 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
+# 2025
+## 0107, Nature, 2025
+FBP1 controls liver cancer evolution from senescent MASH hepatocytes
+<br> https://pubmed.ncbi.nlm.nih.gov/39743585/
+
 # 2024
+## 1217, Cellular & Molecular Immunology, 2024
+Age-associated imbalance in immune cell regeneration varies across individuals and arises from a distinct subset of stem cells
+<br> https://pubmed.ncbi.nlm.nih.gov/39443746/
 
 ## 1126, Cell, 2024
 Metformin decelerates aging clock in male monkeys
