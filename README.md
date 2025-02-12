@@ -6,60 +6,60 @@ Seon-Young Kim's LAB in KRIBB
 OncoSexome: the landscape of sex-based differences in oncologic diseases
 <br> https://pubmed.ncbi.nlm.nih.gov/39535034/
 
-## 0107, Nature, 2025
+## 0107, Nature, 2025, Dr. 손현암
 FBP1 controls liver cancer evolution from senescent MASH hepatocytes
 <br> https://pubmed.ncbi.nlm.nih.gov/39743585/
 
 # 2024
-## 1217, Cellular & Molecular Immunology, 2024
+## 1217, Cellular & Molecular Immunology, 2024, 서지우
 Age-associated imbalance in immune cell regeneration varies across individuals and arises from a distinct subset of stem cells
 <br> https://pubmed.ncbi.nlm.nih.gov/39443746/
 
-## 1126, Cell, 2024
+## 1126, Cell, 2024, Dr. 박종열
 Metformin decelerates aging clock in male monkeys
 <br> https://pubmed.ncbi.nlm.nih.gov/39270656/
 
-## 1118, Cell, 2024
+## 1118, Cell, 2024, Dr. 박승진
 Pan-cancer proteogenomics expands the landscape of therapeutic targets
 <br> https://pubmed.ncbi.nlm.nih.gov/38917788/
 
-## 1022, Immunity, 2024
+## 1022, Immunity, 2024, Dr. 박성환
 An exhausted-like microglial population accumulates in aged and APOE4 genotype Alzheimer's brains
 <br> https://pubmed.ncbi.nlm.nih.gov/38159571/
 
-## 0910, Nature, 2024
+## 0910, Nature, 2024, Dr. 김희진
 Durable and efficient gene silencing in vivo by hit-and-run epigenome editing
 <br> https://pubmed.ncbi.nlm.nih.gov/38418872/
 
-## 0826, Nature, 2024
+## 0826, Nature, 2024, 김지현
 A disease-associated gene desert directs macrophage inflammation through ETS2
 <br> https://pubmed.ncbi.nlm.nih.gov/38839969/
 
-## 0820, Nature, 2023
+## 0820, Nature, 2023, Dr. 김재윤
 A Draft Human Pangenome Reference
 <br> https://pubmed.ncbi.nlm.nih.gov/37165242/
 
-## 0709, British Journal of Dermatology, 2021
+## 0709, British Journal of Dermatology, 2021, 김선엽
 A genome-wide association study identifies novel gene associations with facial skin wrinkling and mole count in Latin Americans
 <br> https://pubmed.ncbi.nlm.nih.gov/33959940/
 
-## 0625, Science, 2024
+## 0625, Science, 2024, Dr. 김선영
 An immunogenetic basis for lung cancer risk
 <br> https://pubmed.ncbi.nlm.nih.gov/38386728/
 
-## 0618, Cancer Discovery, 2024
+## 0618, Cancer Discovery, 2024, Dr. 김선규
 Deep-Learning Model for Tumor-Type Prediction Using Targeted Clinical Genomic Sequencing Data
 <br> https://pubmed.ncbi.nlm.nih.gov/38416134/
 
-## 0611, Cell Research, 2023
+## 0611, Cell Research, 2023, Dr. 김미랑
 An invasive zone in human liver cancer identified by Stereo-seq promotes hepatocyte-tumor cell crosstalk, local immunosuppression and tumor progression
 <br> https://pubmed.ncbi.nlm.nih.gov/37337030/
 
-## 0521, Cell, 2020
+## 0521, Cell, 2020, 곽호경
 Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin
 <br> https://pubmed.ncbi.nlm.nih.gov/33098772/
 
-## 0507, Journal of Hepatology, 2024
+## 0507, Journal of Hepatology, 2024, 고한용
 TRIB3-TRIM8 complex drives NAFLD progression by regulating HNF4α stability
 <br> https://pubmed.ncbi.nlm.nih.gov/38237865/
 
