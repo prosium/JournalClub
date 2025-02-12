@@ -2,6 +2,10 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2025
+## 0204, Nucleic Acids Research, 2025, 윤여경
+OncoSexome: the landscape of sex-based differences in oncologic diseases
+<br> https://pubmed.ncbi.nlm.nih.gov/39535034/
+
 ## 0107, Nature, 2025
 FBP1 controls liver cancer evolution from senescent MASH hepatocytes
 <br> https://pubmed.ncbi.nlm.nih.gov/39743585/
