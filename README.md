@@ -2,6 +2,15 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2025
+
+## 0304, Cell Research, 이소연
+An invasive zone in human liver cancer identified by Stereo-seq promotes hepatocyte-tumor cell crosstalk, local immunosuppression and tumor progression
+<br> https://pubmed.ncbi.nlm.nih.gov/37337030/
+
+## 0205, Nature Communications, 2025, 이선우
+Pangenome graphs improve the analysis of structural variants in rare genetic diseases
+<br> https://pubmed.ncbi.nlm.nih.gov/38253606/
+
 ## 0204, Nucleic Acids Research, 2025, 윤여경
 OncoSexome: the landscape of sex-based differences in oncologic diseases
 <br> https://pubmed.ncbi.nlm.nih.gov/39535034/
