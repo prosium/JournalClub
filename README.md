@@ -3,9 +3,14 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2025
 
-## 0304, Cell Research, 이소연
-An invasive zone in human liver cancer identified by Stereo-seq promotes hepatocyte-tumor cell crosstalk, local immunosuppression and tumor progression
-<br> https://pubmed.ncbi.nlm.nih.gov/37337030/
+## 0311, Nature Metabolism, 2025, 이준민
+Intestinal TM6SF2 protects against metabolic dysfunction-associated steatohepatitis through the gut-liver axis
+<br> https://pubmed.ncbi.nlm.nih.gov/39779889/
+
+
+## 0304, Nature Communications, 2025, 이소연
+Stereo-seq of the prefrontal cortex in aging and Alzheimer's disease
+<br> https://pubmed.ncbi.nlm.nih.gov/39779708/
 
 ## 0205, Nature Communications, 2025, 이선우
 Pangenome graphs improve the analysis of structural variants in rare genetic diseases
