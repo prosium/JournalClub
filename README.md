@@ -1,12 +1,21 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-# 2025
+# 0415, Nature Communications, 2024, 조문정
+Spatially resolved gene expression profiling of tumor microenvironment reveals key steps of lung adenocarcinoma development
+<br> https://pubmed.ncbi.nlm.nih.gov/39639005/
+
+# 0401, Microbiome, 2025, 정유진
+Short-term and long-term high-fat diet promote metabolic disorder through reprogramming mRNA m6A in white adipose tissue by gut microbiota
+<br> https://pubmed.ncbi.nlm.nih.gov/40091072/
+
+## 0318, Nature Methods, 2024, 임수현
+Nucleotide Transformer: building and evaluating robust foundation models for human genomics
+<br> https://pubmed.ncbi.nlm.nih.gov/39609566/
 
 ## 0311, Nature Metabolism, 2025, 이준민
 Intestinal TM6SF2 protects against metabolic dysfunction-associated steatohepatitis through the gut-liver axis
 <br> https://pubmed.ncbi.nlm.nih.gov/39779889/
-
 
 ## 0304, Nature Communications, 2025, 이소연
 Stereo-seq of the prefrontal cortex in aging and Alzheimer's disease
