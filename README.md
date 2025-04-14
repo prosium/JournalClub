@@ -1,11 +1,11 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-# 0415, Nature Communications, 2024, 조문정
+## 0415, Nature Communications, 2024, 조문정
 Spatially resolved gene expression profiling of tumor microenvironment reveals key steps of lung adenocarcinoma development
 <br> https://pubmed.ncbi.nlm.nih.gov/39639005/
 
-# 0401, Microbiome, 2025, 정유진
+## 0401, Microbiome, 2025, 정유진
 Short-term and long-term high-fat diet promote metabolic disorder through reprogramming mRNA m6A in white adipose tissue by gut microbiota
 <br> https://pubmed.ncbi.nlm.nih.gov/40091072/
 
