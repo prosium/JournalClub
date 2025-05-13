@@ -1,6 +1,16 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
+##
+
+## 0513, Nature Genetics, 2025, 고한용
+Active repression of cell fate plasticity by PROX1 safeguards hepatocyte identity and prevents liver tumorigenesis
+<br> https://pubmed.ncbi.nlm.nih.gov/39948437/
+
+## 0506, Advanced Science, 2025, 허효진
+Human Pituitary Organoids: Transcriptional Landscape Deciphered by scRNA‐Seq and Stereo‐Seq, with Insights into SOX3's Role in Pituitary Development
+<br> https://pubmed.ncbi.nlm.nih.gov/39951008/
+
 ## 0415, Nature Communications, 2024, 조문정
 Spatially resolved gene expression profiling of tumor microenvironment reveals key steps of lung adenocarcinoma development
 <br> https://pubmed.ncbi.nlm.nih.gov/39639005/
