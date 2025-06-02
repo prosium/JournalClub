@@ -1,7 +1,13 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-##
+## 0610, Science Translational Medicine, 2025, 김미랑
+Integrative multiomic analysis identifies distinct molecular subtypes of NAFLD in a Chinese population
+<br> https://pubmed.ncbi.nlm.nih.gov/39504356/
+
+## 0527, Royal Society Open Science, 2025, 곽호경
+Application of a new composite genetic marker semen-specific methylation-microhaplotype in the analysis of semen-vaginal fluid mixtures
+<br> https://pubmed.ncbi.nlm.nih.gov/39816748/
 
 ## 0513, Nature Genetics, 2025, 고한용
 Active repression of cell fate plasticity by PROX1 safeguards hepatocyte identity and prevents liver tumorigenesis
