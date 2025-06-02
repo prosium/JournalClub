@@ -1,7 +1,7 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-## 0610, Science Translational Medicine, 2025, 김미랑
+## 0610, Science Translational Medicine, 2024, 김미랑
 Integrative multiomic analysis identifies distinct molecular subtypes of NAFLD in a Chinese population
 <br> https://pubmed.ncbi.nlm.nih.gov/39504356/
 
