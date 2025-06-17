@@ -1,11 +1,11 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-## 0617, Arxiv, 2025, 김선규
+## 0617, Arxiv, 2025, Dr. 김선규
 QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training
 <br> https://arxiv.org/abs/2506.00711
 
-## 0610, Science Translational Medicine, 2024, 김미랑
+## 0610, Science Translational Medicine, 2024, Dr. 김미랑
 Integrative multiomic analysis identifies distinct molecular subtypes of NAFLD in a Chinese population
 <br> https://pubmed.ncbi.nlm.nih.gov/39504356/
 
@@ -17,7 +17,7 @@ Application of a new composite genetic marker semen-specific methylation-microha
 Active repression of cell fate plasticity by PROX1 safeguards hepatocyte identity and prevents liver tumorigenesis
 <br> https://pubmed.ncbi.nlm.nih.gov/39948437/
 
-## 0506, Advanced Science, 2025, 허효진
+## 0506, Advanced Science, 2025, Dr. 허효진
 Human Pituitary Organoids: Transcriptional Landscape Deciphered by scRNA‐Seq and Stereo‐Seq, with Insights into SOX3's Role in Pituitary Development
 <br> https://pubmed.ncbi.nlm.nih.gov/39951008/
 
