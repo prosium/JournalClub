@@ -1,6 +1,10 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
+## 0617, Arxiv, 2025, 김선규
+QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training
+<br> https://arxiv.org/abs/2506.00711
+
 ## 0610, Science Translational Medicine, 2024, 김미랑
 Integrative multiomic analysis identifies distinct molecular subtypes of NAFLD in a Chinese population
 <br> https://pubmed.ncbi.nlm.nih.gov/39504356/
