@@ -1,7 +1,4 @@
 
-김선엽	김선영	김재윤	김지현	김희진
-
-
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
