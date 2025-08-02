@@ -1,5 +1,25 @@
+
+김선엽	김선영	김재윤	김지현	김희진
+
+
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
+
+## XXXX, Nature Communications, 2025, 김지현
+Performance of deep-learning-based approaches to improve polygenic scores
+<br> https://pubmed.ncbi.nlm.nih.gov/40456720/
+
+## 0715, Nature, 2024, Dr. 김재윤
+Recurrent evolution and selection shape structural diversity at the amylase locus
+<br> https://pubmed.ncbi.nlm.nih.gov/39232174/
+
+## 0708, Science, 2025, Dr. 김선영
+Disease diagnostics using machine learning of B cell and T cell receptor sequences
+<br> https://pubmed.ncbi.nlm.nih.gov/39977494/
+
+## 0624, Nature Genetics, 2025, 김선엽
+Long-read RNA sequencing atlas of human microglia isoforms elucidates disease-associated genetic regulation of splicing
+<br> https://pubmed.ncbi.nlm.nih.gov/40033057/
 
 ## 0617, Arxiv, 2025, Dr. 김선규
 QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training
