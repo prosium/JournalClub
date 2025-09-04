@@ -2,7 +2,21 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-## XXXX, Nature Communications, 2025, 김지현
+
+
+## 0902, Nucleic Acids Research, 2025, Dr.박종열
+Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature of epigenomic aging
+<br> https://pubmed.ncbi.nlm.nih.gov/40347138/
+
+## 0819, bioRxiv, 2025, 박승진
+AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model
+<br> https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2
+
+## 0812, Nature Aging, 2025, Dr. 김희진
+Epigenetic editing at individual age-associated CpGs affects the genome-wide epigenetic aging landscape
+<br> https://pubmed.ncbi.nlm.nih.gov/40128456/
+
+## 0805, Nature Communications, 2025, 김지현
 Performance of deep-learning-based approaches to improve polygenic scores
 <br> https://pubmed.ncbi.nlm.nih.gov/40456720/
 
