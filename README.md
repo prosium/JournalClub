@@ -3,6 +3,9 @@
 Seon-Young Kim's LAB in KRIBB
 
 
+## XX, Cancer Cell, Dr. 백승우
+Molecular heterogeneity in urothelial carcinoma and determinants of clinical benefit to PD-L1 blockade
+<br> https://pubmed.ncbi.nlm.nih.gov/39577421/
 
 ## 0902, Nucleic Acids Research, 2025, Dr.박종열
 Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature of epigenomic aging
@@ -11,7 +14,7 @@ Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature 
 ## 0819, bioRxiv, 2025, 박승진
 AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model
 <br> https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2
-
+      
 ## 0812, Nature Aging, 2025, Dr. 김희진
 Epigenetic editing at individual age-associated CpGs affects the genome-wide epigenetic aging landscape
 <br> https://pubmed.ncbi.nlm.nih.gov/40128456/
