@@ -9,7 +9,7 @@ Molecular heterogeneity in urothelial carcinoma and determinants of clinical ben
 
 ## 0909, Nature Communications, 2025, 박해리
 Multiomics and cellular senescence profiling of aging human skeletal muscle uncovers Maraviroc as a senotherapeutic approach for sarcopenia
-https://pubmed.ncbi.nlm.nih.gov/40617829/
+<br> https://pubmed.ncbi.nlm.nih.gov/40617829/
 
 
 ## 0902, Nucleic Acids Research, 2025, Dr.박종열
@@ -19,6 +19,10 @@ Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature 
 ## 0819, bioRxiv, 2025, 박승진
 AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model
 <br> https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2
+        
+        
+        
+        
         
         
         
