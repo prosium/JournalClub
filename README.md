@@ -2,8 +2,23 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
+## XXXX, Journal of Hepatology, 2025, Dr. 이건희
+eIF3f promotes tumour malignancy by remodelling fatty acid biosynthesis in hepatocellular carcinoma
+<br> https://pubmed.ncbi.nlm.nih.gov/40154622/
 
-## XX, Cancer Cell, Dr. 백승우
+## 1104, Nucleic Acids Research, 2025, 윤여경
+PhaSepDB 3.0: a comprehensive knowledgebase of phase separation-related proteins from AI-assisted curation
+<br> https://pubmed.ncbi.nlm.nih.gov/41062450/
+
+## 1014, Cell, 2025, Dr. 손현암
+Comprehensive human proteome profiles across a 50-year lifespan reveal aging trajectories and signatures
+<br> https://pubmed.ncbi.nlm.nih.gov/40713952/
+
+## 0923, Nature Communications, 2025, 서지우
+ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images
+<br> https://pubmed.ncbi.nlm.nih.gov/40819165/
+
+## 0916, Cancer Cell, Dr. 백승우
 Molecular heterogeneity in urothelial carcinoma and determinants of clinical benefit to PD-L1 blockade
 <br> https://pubmed.ncbi.nlm.nih.gov/39577421/
 
@@ -19,6 +34,8 @@ Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature 
 ## 0819, bioRxiv, 2025, 박승진
 AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model
 <br> https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2
+        
+        
         
         
         
