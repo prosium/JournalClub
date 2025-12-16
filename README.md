@@ -2,6 +2,19 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
+
+## 1216, Molecular Cell, 2023, 이준민
+A hyper-quiescent chromatin state formed during aging is reversed by regeneration
+<br> https://pubmed.ncbi.nlm.nih.gov/37116496/
+
+## 1209, Nature Genetics, 2025, 이소연
+Single-cell and spatial transcriptomics of stricturing Crohn's disease highlights a fibrosis-associated network
+<br> https://pubmed.ncbi.nlm.nih.gov/40562913/
+
+## 1124, MedRxiv, 2025, 이선우
+Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project
+<br> https://www.medrxiv.org/content/10.1101/2025.08.19.25333674v1
+
 ## 1111, Journal of Hepatology, 2025, Dr. 이건희
 eIF3f promotes tumour malignancy by remodelling fatty acid biosynthesis in hepatocellular carcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/40154622/
@@ -34,6 +47,10 @@ Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature 
 ## 0819, bioRxiv, 2025, 박승진
 AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model
 <br> https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2
+        
+        
+        
+        
         
         
         
