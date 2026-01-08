@@ -2,12 +2,15 @@
 # JournalClub
 Seon-Young Kim's LAB in KRIBB
 
-
 # 2026
+
+## 01XX, Nature Genetics, 2025, 정유진
+Single-molecule footprinting identifies context-dependent regulation of enhancers by DNA methylation
+<br> https://pubmed.ncbi.nlm.nih.gov/40691407/
+
 ## 0106, Molecular Cell, 2023, 임수현
 Single-molecule footprinting identifies context-dependent regulation of enhancers by DNA methylation
 <br> https://pubmed.ncbi.nlm.nih.gov/36758546/
-
 
 # 2025
 
