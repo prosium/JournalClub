@@ -6,7 +6,7 @@ Seon-Young Kim's LAB in KRIBB
 
 ## 0224, Cancer Cell, 2025, Dr. 허효진
 KEAP1 and STK11/LKB1 alterations enhance vulnerability to ATR inhibition in KRAS mutant non-small cell lung cancer
-<br> https://pubmed.ncbi.nlm.nih.gov/41216859/
+<br> https://pubmed.ncbi.nlm.nih.gov/40645185/
 
 ## 0203, Advanced Science, 2025, 조문정
 SLPI⁺ AT2-Like Cells Orchestrate Lung Adenocarcinoma Invasion via Wnt Pathway Activation and Stromal Crosstalk in a Spatially Defined Margin Niche
