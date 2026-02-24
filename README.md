@@ -4,8 +4,20 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
-## 01XX, Nature Genetics, 2025, 정유진
-Single-molecule footprinting identifies context-dependent regulation of enhancers by DNA methylation
+## 0224, Cancer Cell, 2025, Dr. 허효진
+KEAP1 and STK11/LKB1 alterations enhance vulnerability to ATR inhibition in KRAS mutant non-small cell lung cancer
+<br> https://pubmed.ncbi.nlm.nih.gov/41216859/
+
+## 0203, Advanced Science, 2025, 조문정
+SLPI⁺ AT2-Like Cells Orchestrate Lung Adenocarcinoma Invasion via Wnt Pathway Activation and Stromal Crosstalk in a Spatially Defined Margin Niche
+<br> https://pubmed.ncbi.nlm.nih.gov/41216859/
+
+## 0120, Cancer Cell, 2025, 정일산
+Microbial cancer immunotherapy reprograms hematopoiesis to enhance myeloid-driven anti-tumor immunity
+<br> https://pubmed.ncbi.nlm.nih.gov/40446799/
+
+## 0113, Nature Genetics, 2025, 정유진
+NKX2-1 drives neuroendocrine transdifferentiation of prostate cancer via epigenetic and 3D chromatin remodeling
 <br> https://pubmed.ncbi.nlm.nih.gov/40691407/
 
 ## 0106, Molecular Cell, 2023, 임수현
