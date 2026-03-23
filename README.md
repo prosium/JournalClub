@@ -4,6 +4,18 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
+## XXXX, Nature Communications, 2026, Dr. 김미랑
+Integrative epigenetics and transcriptomics identify aging genes in human blood
+<br> https://pubmed.ncbi.nlm.nih.gov/41554691/
+
+## 0317, Nature Communications, 2024, 곽호경
+Deep learning predictions of TCR-epitope interactions reveal epitope-specific chains in dual alpha T cells
+<br> https://pubmed.ncbi.nlm.nih.gov/38615042/
+
+## 0310, Gut, 2025, 고한용
+Targeting Treg-fibroblast interaction to enhance immunotherapy in steatotic liver disease-related hepatocellular carcinoma
+<br> https://pubmed.ncbi.nlm.nih.gov/40695620/
+
 ## 0224, Cancer Cell, 2025, Dr. 허효진
 KEAP1 and STK11/LKB1 alterations enhance vulnerability to ATR inhibition in KRAS mutant non-small cell lung cancer
 <br> https://pubmed.ncbi.nlm.nih.gov/40645185/
@@ -37,6 +49,8 @@ Single-cell and spatial transcriptomics of stricturing Crohn's disease highlight
 ## 1124, MedRxiv, 2025, 이선우
 Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project
 <br> https://www.medrxiv.org/content/10.1101/2025.08.19.25333674v1
+        
+        
         
 ## 1111, Journal of Hepatology, 2025, Dr. 이건희
 eIF3f promotes tumour malignancy by remodelling fatty acid biosynthesis in hepatocellular carcinoma
