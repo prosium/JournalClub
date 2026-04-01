@@ -4,7 +4,9 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
-## XXXX, Nature Communications, 2026, Dr. 김미랑
+
+
+## 0331, Nature Communications, 2026, Dr. 김미랑
 Integrative epigenetics and transcriptomics identify aging genes in human blood
 <br> https://pubmed.ncbi.nlm.nih.gov/41554691/
 
