@@ -6,6 +6,14 @@ Seon-Young Kim's LAB in KRIBB
 
 
 
+## 0421, Genome Medicine, 2026, 김선엽
+Genome-wide methylation detection and episignature analysis using PacBio long-read sequencing
+<br> https://pubmed.ncbi.nlm.nih.gov/41588467/
+
+## 0414, Nature, 2025, Dr. 백승우
+Spatial fibroblast niches define Crohn’s fistulae
+<br> https://pubmed.ncbi.nlm.nih.gov/41224999/
+
 ## 0331, Nature Communications, 2026, Dr. 김미랑
 Integrative epigenetics and transcriptomics identify aging genes in human blood
 <br> https://pubmed.ncbi.nlm.nih.gov/41554691/
@@ -51,6 +59,8 @@ Single-cell and spatial transcriptomics of stricturing Crohn's disease highlight
 ## 1124, MedRxiv, 2025, 이선우
 Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project
 <br> https://www.medrxiv.org/content/10.1101/2025.08.19.25333674v1
+        
+        
         
         
         
