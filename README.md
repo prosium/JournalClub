@@ -4,7 +4,9 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
-
+## 0513, Nature, 2026, Dr.김선영
+An agentic system for rare disease diagnosis with traceable reasoning
+<br> https://pubmed.ncbi.nlm.nih.gov/41708847/
 
 ## 0421, Genome Medicine, 2026, 김선엽
 Genome-wide methylation detection and episignature analysis using PacBio long-read sequencing
@@ -59,6 +61,8 @@ Single-cell and spatial transcriptomics of stricturing Crohn's disease highlight
 ## 1124, MedRxiv, 2025, 이선우
 Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project
 <br> https://www.medrxiv.org/content/10.1101/2025.08.19.25333674v1
+        
+        
         
         
         
