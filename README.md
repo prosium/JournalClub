@@ -4,6 +4,14 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
+## 0609, Nature, 2026, 김지현
+Cell-type-resolved genetic variation shapes inflammatory bowel disease risk
+<br> https://pubmed.ncbi.nlm.nih.gov/42236949/
+
+## 0602, Nature, 2026, Dr.김재윤
+Efficient near-telomere-to-telomere assembly of nanopore simplex reads
+<br> https://pubmed.ncbi.nlm.nih.gov/41639459/
+
 ## 0513, Nature, 2026, Dr.김선영
 An agentic system for rare disease diagnosis with traceable reasoning
 <br> https://pubmed.ncbi.nlm.nih.gov/41708847/
