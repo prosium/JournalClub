@@ -56,7 +56,8 @@ NKX2-1 drives neuroendocrine transdifferentiation of prostate cancer via epigene
 Single-molecule footprinting identifies context-dependent regulation of enhancers by DNA methylation
 <br> https://pubmed.ncbi.nlm.nih.gov/36758546/
 
-# 2025
+<details>
+<summary><h1>2025</h1></summary>
 
 ## 1216, Molecular Cell, 2023, 이준민
 A hyper-quiescent chromatin state formed during aging is reversed by regeneration
@@ -69,12 +70,6 @@ Single-cell and spatial transcriptomics of stricturing Crohn's disease highlight
 ## 1124, MedRxiv, 2025, 이선우
 Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project
 <br> https://www.medrxiv.org/content/10.1101/2025.08.19.25333674v1
-        
-        
-        
-        
-        
-        
         
 ## 1111, Journal of Hepatology, 2025, Dr. 이건희
 eIF3f promotes tumour malignancy by remodelling fatty acid biosynthesis in hepatocellular carcinoma
@@ -99,7 +94,6 @@ Molecular heterogeneity in urothelial carcinoma and determinants of clinical ben
 ## 0909, Nature Communications, 2025, 박해리
 Multiomics and cellular senescence profiling of aging human skeletal muscle uncovers Maraviroc as a senotherapeutic approach for sarcopenia
 <br> https://pubmed.ncbi.nlm.nih.gov/40617829/
-
 
 ## 0902, Nucleic Acids Research, 2025, Dr.박종열
 Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature of epigenomic aging
@@ -181,7 +175,11 @@ OncoSexome: the landscape of sex-based differences in oncologic diseases
 FBP1 controls liver cancer evolution from senescent MASH hepatocytes
 <br> https://pubmed.ncbi.nlm.nih.gov/39743585/
 
-# 2024
+</details>
+
+<details>
+<summary><h1>2024</h1></summary>
+
 ## 1217, Cellular & Molecular Immunology, 2024, 서지우
 Age-associated imbalance in immune cell regeneration varies across individuals and arises from a distinct subset of stem cells
 <br> https://pubmed.ncbi.nlm.nih.gov/39443746/
@@ -305,5 +303,6 @@ STING inhibits the reactivation of dormant metastasis in lung adenocarcinoma
 Identical twins carry a persistent epigenetic signature of early genome programming
 <br> https://pubmed.ncbi.nlm.nih.gov/34584077/
 
+</details>
 
 
