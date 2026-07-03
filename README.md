@@ -4,6 +4,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
+## 0707, Nature Biotechnology, 2026, Dr.김희진
+Evolution-guided protein design of IscB for persistent epigenome editing in vivo
+<br> https://pubmed.ncbi.nlm.nih.gov/40335752/
+
 ## 0609, Nature, 2026, 김지현
 Cell-type-resolved genetic variation shapes inflammatory bowel disease risk
 <br> https://pubmed.ncbi.nlm.nih.gov/42236949/
