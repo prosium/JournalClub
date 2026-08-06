@@ -4,9 +4,13 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
+## 0804, Nature Biomedical Engineering, 2026, Dr. 김선규
+Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses
+<br>https://pubmed.ncbi.nlm.nih.gov/41912700/
+
 ## 0714, bioRxiv, 2025, Dr.박승진
 A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction
-<br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
+<br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1    
 
 ## 0707, Nature Biotechnology, 2026, Dr.김희진
 Evolution-guided protein design of IscB for persistent epigenome editing in vivo
