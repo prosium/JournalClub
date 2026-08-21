@@ -4,6 +4,10 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
+## XXXX, Cell, Dr.손현암
+Multimodal clocks of human aging
+<br>https://pubmed.ncbi.nlm.nih.gov/42105758/
+
 ## 0818, Advanced Science, 2026, 서지우
 Foundation Model-Enabled Multimodal Deep Learning for Prognostic Prediction in Colorectal Cancer with Incomplete Modalities: A Multi-Institutional Retrospective Study
 <br>https://pubmed.ncbi.nlm.nih.gov/41556415/
@@ -15,6 +19,8 @@ Empowering AI data scientists using a multi-agent LLM framework with self-evolvi
 ## 0714, bioRxiv, 2025, Dr.박승진
 A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction
 <br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
+        
+        
         
 ## 0707, Nature Biotechnology, 2026, Dr.김희진
 Evolution-guided protein design of IscB for persistent epigenome editing in vivo
