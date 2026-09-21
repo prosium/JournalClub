@@ -4,206 +4,202 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
-## XXXX, Nucleic Acids Research, 윤여경
+## XXXX, Nucleic Acids Research, 윤여경 [20]
 Methyl-GP: accurate generic DNA methylation prediction based on a language model and representation learning
 <br>https://pubmed.ncbi.nlm.nih.gov/40156859/
 
-## 0915, Science, Dr.신정원
+## 0915, Science, Dr.신정원 [19]
 Segmental duplications and their variation in a complete human genome
 <br>https://pubmed.ncbi.nlm.nih.gov/35357917/
 
-## 0901, Cell, Dr.손현암
+## 0901, Cell, Dr.손현암 [18]
 Multimodal clocks of human aging
 <br>https://pubmed.ncbi.nlm.nih.gov/42105758/
 
-## 0818, Advanced Science, 2026, 서지우
+## 0818, Advanced Science, 2026, 서지우 [17]
 Foundation Model-Enabled Multimodal Deep Learning for Prognostic Prediction in Colorectal Cancer with Incomplete Modalities: A Multi-Institutional Retrospective Study
 <br>https://pubmed.ncbi.nlm.nih.gov/41556415/
 
-## 0804, Nature Biomedical Engineering, 2026, Dr. 김선규
+## 0804, Nature Biomedical Engineering, 2026, Dr. 김선규 [16]
 Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses
 <br>https://pubmed.ncbi.nlm.nih.gov/41912700/
 
-## 0714, bioRxiv, 2025, Dr.박승진
+## 0714, bioRxiv, 2025, Dr.박승진 [15]
 A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction
 <br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
         
-        
-        
-        
-        
-## 0707, Nature Biotechnology, 2026, Dr.김희진
+## 0707, Nature Biotechnology, 2026, Dr.김희진 [14]
 Evolution-guided protein design of IscB for persistent epigenome editing in vivo
 <br> https://pubmed.ncbi.nlm.nih.gov/40335752/
 
-## 0609, Nature, 2026, 김지현
+## 0609, Nature, 2026, 김지현 [13]
 Cell-type-resolved genetic variation shapes inflammatory bowel disease risk
 <br> https://pubmed.ncbi.nlm.nih.gov/42236949/
 
-## 0602, Nature, 2026, Dr.김재윤
+## 0602, Nature, 2026, Dr.김재윤 [12]
 Efficient near-telomere-to-telomere assembly of nanopore simplex reads
 <br> https://pubmed.ncbi.nlm.nih.gov/41639459/
 
-## 0513, Nature, 2026, Dr.김선영
+## 0513, Nature, 2026, Dr.김선영 [11]
 An agentic system for rare disease diagnosis with traceable reasoning
 <br> https://pubmed.ncbi.nlm.nih.gov/41708847/
 
-## 0421, Genome Medicine, 2026, 김선엽
+## 0421, Genome Medicine, 2026, 김선엽 [10]
 Genome-wide methylation detection and episignature analysis using PacBio long-read sequencing
 <br> https://pubmed.ncbi.nlm.nih.gov/41588467/
 
-## 0414, Nature, 2025, Dr. 백승우
+## 0414, Nature, 2025, Dr. 백승우 [09]
 Spatial fibroblast niches define Crohn’s fistulae
 <br> https://pubmed.ncbi.nlm.nih.gov/41224999/
 
-## 0331, Nature Communications, 2026, Dr. 김미랑
+## 0331, Nature Communications, 2026, Dr. 김미랑 [08]
 Integrative epigenetics and transcriptomics identify aging genes in human blood
 <br> https://pubmed.ncbi.nlm.nih.gov/41554691/
 
-## 0317, Nature Communications, 2024, 곽호경
+## 0317, Nature Communications, 2024, 곽호경 [07]
 Deep learning predictions of TCR-epitope interactions reveal epitope-specific chains in dual alpha T cells
 <br> https://pubmed.ncbi.nlm.nih.gov/38615042/
 
-## 0310, Gut, 2025, 고한용
+## 0310, Gut, 2025, 고한용 [06]
 Targeting Treg-fibroblast interaction to enhance immunotherapy in steatotic liver disease-related hepatocellular carcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/40695620/
 
-## 0224, Cancer Cell, 2025, Dr. 허효진
+## 0224, Cancer Cell, 2025, Dr. 허효진 [05]
 KEAP1 and STK11/LKB1 alterations enhance vulnerability to ATR inhibition in KRAS mutant non-small cell lung cancer
 <br> https://pubmed.ncbi.nlm.nih.gov/40645185/
 
-## 0203, Advanced Science, 2025, 조문정
+## 0203, Advanced Science, 2025, 조문정 [04]
 SLPI⁺ AT2-Like Cells Orchestrate Lung Adenocarcinoma Invasion via Wnt Pathway Activation and Stromal Crosstalk in a Spatially Defined Margin Niche
 <br> https://pubmed.ncbi.nlm.nih.gov/41216859/
 
-## 0120, Cancer Cell, 2025, 정일산
+## 0120, Cancer Cell, 2025, 정일산 [03]
 Microbial cancer immunotherapy reprograms hematopoiesis to enhance myeloid-driven anti-tumor immunity
 <br> https://pubmed.ncbi.nlm.nih.gov/40446799/
 
-## 0113, Nature Genetics, 2025, 정유진
+## 0113, Nature Genetics, 2025, 정유진 [02]
 NKX2-1 drives neuroendocrine transdifferentiation of prostate cancer via epigenetic and 3D chromatin remodeling
 <br> https://pubmed.ncbi.nlm.nih.gov/40691407/
 
-## 0106, Molecular Cell, 2023, 임수현
+## 0106, Molecular Cell, 2023, 임수현 [01]
 Single-molecule footprinting identifies context-dependent regulation of enhancers by DNA methylation
 <br> https://pubmed.ncbi.nlm.nih.gov/36758546/
 
 <details>
 <summary><h1>2025</h1></summary>
 
-## 1216, Molecular Cell, 2023, 이준민
+## 1216, Molecular Cell, 2023, 이준민 [29]
 A hyper-quiescent chromatin state formed during aging is reversed by regeneration
 <br> https://pubmed.ncbi.nlm.nih.gov/37116496/
 
-## 1209, Nature Genetics, 2025, 이소연
+## 1209, Nature Genetics, 2025, 이소연 [28]
 Single-cell and spatial transcriptomics of stricturing Crohn's disease highlights a fibrosis-associated network
 <br> https://pubmed.ncbi.nlm.nih.gov/40562913/
 
-## 1124, MedRxiv, 2025, 이선우
+## 1124, MedRxiv, 2025, 이선우 [27]
 Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project
 <br> https://www.medrxiv.org/content/10.1101/2025.08.19.25333674v1
         
-## 1111, Journal of Hepatology, 2025, Dr. 이건희
+## 1111, Journal of Hepatology, 2025, Dr. 이건희 [26]
 eIF3f promotes tumour malignancy by remodelling fatty acid biosynthesis in hepatocellular carcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/40154622/
 
-## 1104, Nucleic Acids Research, 2025, 윤여경
+## 1104, Nucleic Acids Research, 2025, 윤여경 [25]
 PhaSepDB 3.0: a comprehensive knowledgebase of phase separation-related proteins from AI-assisted curation
 <br> https://pubmed.ncbi.nlm.nih.gov/41062450/
 
-## 1014, Cell, 2025, Dr. 손현암
+## 1014, Cell, 2025, Dr. 손현암 [24]
 Comprehensive human proteome profiles across a 50-year lifespan reveal aging trajectories and signatures
 <br> https://pubmed.ncbi.nlm.nih.gov/40713952/
 
-## 0923, Nature Communications, 2025, 서지우
+## 0923, Nature Communications, 2025, 서지우 [23]
 ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images
 <br> https://pubmed.ncbi.nlm.nih.gov/40819165/
 
-## 0916, Cancer Cell, Dr. 백승우
+## 0916, Cancer Cell, Dr. 백승우 [22]
 Molecular heterogeneity in urothelial carcinoma and determinants of clinical benefit to PD-L1 blockade
 <br> https://pubmed.ncbi.nlm.nih.gov/39577421/
 
-## 0909, Nature Communications, 2025, 박해리
+## 0909, Nature Communications, 2025, 박해리 [21]
 Multiomics and cellular senescence profiling of aging human skeletal muscle uncovers Maraviroc as a senotherapeutic approach for sarcopenia
 <br> https://pubmed.ncbi.nlm.nih.gov/40617829/
 
-## 0902, Nucleic Acids Research, 2025, Dr.박종열
+## 0902, Nucleic Acids Research, 2025, Dr.박종열 [20]
 Emergence of CpG-cluster blanket methylation in aged tissues: a novel signature of epigenomic aging
 <br> https://pubmed.ncbi.nlm.nih.gov/40347138/
 
-## 0819, bioRxiv, 2025, Dr. 박승진
+## 0819, bioRxiv, 2025, Dr. 박승진 [19]
 AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model
 <br> https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2
         
-## 0812, Nature Aging, 2025, Dr. 김희진
+## 0812, Nature Aging, 2025, Dr. 김희진 [18]
 Epigenetic editing at individual age-associated CpGs affects the genome-wide epigenetic aging landscape
 <br> https://pubmed.ncbi.nlm.nih.gov/40128456/
 
-## 0805, Nature Communications, 2025, 김지현
+## 0805, Nature Communications, 2025, 김지현 [17]
 Performance of deep-learning-based approaches to improve polygenic scores
 <br> https://pubmed.ncbi.nlm.nih.gov/40456720/
 
-## 0715, Nature, 2024, Dr. 김재윤
+## 0715, Nature, 2024, Dr. 김재윤 [16]
 Recurrent evolution and selection shape structural diversity at the amylase locus
 <br> https://pubmed.ncbi.nlm.nih.gov/39232174/
 
-## 0708, Science, 2025, Dr. 김선영
+## 0708, Science, 2025, Dr. 김선영 [15]
 Disease diagnostics using machine learning of B cell and T cell receptor sequences
 <br> https://pubmed.ncbi.nlm.nih.gov/39977494/
 
-## 0624, Nature Genetics, 2025, 김선엽
+## 0624, Nature Genetics, 2025, 김선엽 [14]
 Long-read RNA sequencing atlas of human microglia isoforms elucidates disease-associated genetic regulation of splicing
 <br> https://pubmed.ncbi.nlm.nih.gov/40033057/
 
-## 0617, Arxiv, 2025, Dr. 김선규
+## 0617, Arxiv, 2025, Dr. 김선규 [13]
 QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training
 <br> https://arxiv.org/abs/2506.00711
 
-## 0610, Science Translational Medicine, 2024, Dr. 김미랑
+## 0610, Science Translational Medicine, 2024, Dr. 김미랑 [12]
 Integrative multiomic analysis identifies distinct molecular subtypes of NAFLD in a Chinese population
 <br> https://pubmed.ncbi.nlm.nih.gov/39504356/
 
-## 0527, Royal Society Open Science, 2025, 곽호경
+## 0527, Royal Society Open Science, 2025, 곽호경 [11]
 Application of a new composite genetic marker semen-specific methylation-microhaplotype in the analysis of semen-vaginal fluid mixtures
 <br> https://pubmed.ncbi.nlm.nih.gov/39816748/
 
-## 0513, Nature Genetics, 2025, 고한용
+## 0513, Nature Genetics, 2025, 고한용 [10]
 Active repression of cell fate plasticity by PROX1 safeguards hepatocyte identity and prevents liver tumorigenesis
 <br> https://pubmed.ncbi.nlm.nih.gov/39948437/
 
-## 0506, Advanced Science, 2025, Dr. 허효진
+## 0506, Advanced Science, 2025, Dr. 허효진 [09]
 Human Pituitary Organoids: Transcriptional Landscape Deciphered by scRNA‐Seq and Stereo‐Seq, with Insights into SOX3's Role in Pituitary Development
 <br> https://pubmed.ncbi.nlm.nih.gov/39951008/
 
-## 0415, Nature Communications, 2024, 조문정
+## 0415, Nature Communications, 2024, 조문정 [08]
 Spatially resolved gene expression profiling of tumor microenvironment reveals key steps of lung adenocarcinoma development
 <br> https://pubmed.ncbi.nlm.nih.gov/39639005/
 
-## 0401, Microbiome, 2025, 정유진
+## 0401, Microbiome, 2025, 정유진 [07]
 Short-term and long-term high-fat diet promote metabolic disorder through reprogramming mRNA m6A in white adipose tissue by gut microbiota
 <br> https://pubmed.ncbi.nlm.nih.gov/40091072/
 
-## 0318, Nature Methods, 2024, 임수현
+## 0318, Nature Methods, 2024, 임수현 [06]
 Nucleotide Transformer: building and evaluating robust foundation models for human genomics
 <br> https://pubmed.ncbi.nlm.nih.gov/39609566/
 
-## 0311, Nature Metabolism, 2025, 이준민
+## 0311, Nature Metabolism, 2025, 이준민 [05]
 Intestinal TM6SF2 protects against metabolic dysfunction-associated steatohepatitis through the gut-liver axis
 <br> https://pubmed.ncbi.nlm.nih.gov/39779889/
 
-## 0304, Nature Communications, 2025, 이소연
+## 0304, Nature Communications, 2025, 이소연 [04]
 Stereo-seq of the prefrontal cortex in aging and Alzheimer's disease
 <br> https://pubmed.ncbi.nlm.nih.gov/39779708/
 
-## 0205, Nature Communications, 2025, 이선우
+## 0205, Nature Communications, 2025, 이선우 [03]
 Pangenome graphs improve the analysis of structural variants in rare genetic diseases
 <br> https://pubmed.ncbi.nlm.nih.gov/38253606/
 
-## 0204, Nucleic Acids Research, 2025, 윤여경
+## 0204, Nucleic Acids Research, 2025, 윤여경 [02]
 OncoSexome: the landscape of sex-based differences in oncologic diseases
 <br> https://pubmed.ncbi.nlm.nih.gov/39535034/
 
-## 0107, Nature, 2025, Dr. 손현암
+## 0107, Nature, 2025, Dr. 손현암 [01]
 FBP1 controls liver cancer evolution from senescent MASH hepatocytes
 <br> https://pubmed.ncbi.nlm.nih.gov/39743585/
 
@@ -212,95 +208,95 @@ FBP1 controls liver cancer evolution from senescent MASH hepatocytes
 <details>
 <summary><h1>2024</h1></summary>
 
-## 1217, Cellular & Molecular Immunology, 2024, 서지우
+## 1217, Cellular & Molecular Immunology, 2024, 서지우 [23]
 Age-associated imbalance in immune cell regeneration varies across individuals and arises from a distinct subset of stem cells
 <br> https://pubmed.ncbi.nlm.nih.gov/39443746/
 
-## 1126, Cell, 2024, Dr. 박종열
+## 1126, Cell, 2024, Dr. 박종열 [22]
 Metformin decelerates aging clock in male monkeys
 <br> https://pubmed.ncbi.nlm.nih.gov/39270656/
 
-## 1118, Cell, 2024, Dr. 박승진
+## 1118, Cell, 2024, Dr. 박승진 [21]
 Pan-cancer proteogenomics expands the landscape of therapeutic targets
 <br> https://pubmed.ncbi.nlm.nih.gov/38917788/
 
-## 1022, Immunity, 2024, Dr. 박성환
+## 1022, Immunity, 2024, Dr. 박성환 [20]
 An exhausted-like microglial population accumulates in aged and APOE4 genotype Alzheimer's brains
 <br> https://pubmed.ncbi.nlm.nih.gov/38159571/
 
-## 0910, Nature, 2024, Dr. 김희진
+## 0910, Nature, 2024, Dr. 김희진 [19]
 Durable and efficient gene silencing in vivo by hit-and-run epigenome editing
 <br> https://pubmed.ncbi.nlm.nih.gov/38418872/
 
-## 0826, Nature, 2024, 김지현
+## 0826, Nature, 2024, 김지현 [18]
 A disease-associated gene desert directs macrophage inflammation through ETS2
 <br> https://pubmed.ncbi.nlm.nih.gov/38839969/
 
-## 0820, Nature, 2023, Dr. 김재윤
+## 0820, Nature, 2023, Dr. 김재윤 [17]
 A Draft Human Pangenome Reference
 <br> https://pubmed.ncbi.nlm.nih.gov/37165242/
 
-## 0709, British Journal of Dermatology, 2021, 김선엽
+## 0709, British Journal of Dermatology, 2021, 김선엽 [16]
 A genome-wide association study identifies novel gene associations with facial skin wrinkling and mole count in Latin Americans
 <br> https://pubmed.ncbi.nlm.nih.gov/33959940/
 
-## 0625, Science, 2024, Dr. 김선영
+## 0625, Science, 2024, Dr. 김선영 [15]
 An immunogenetic basis for lung cancer risk
 <br> https://pubmed.ncbi.nlm.nih.gov/38386728/
 
-## 0618, Cancer Discovery, 2024, Dr. 김선규
+## 0618, Cancer Discovery, 2024, Dr. 김선규 [14]
 Deep-Learning Model for Tumor-Type Prediction Using Targeted Clinical Genomic Sequencing Data
 <br> https://pubmed.ncbi.nlm.nih.gov/38416134/
 
-## 0611, Cell Research, 2023, Dr. 김미랑
+## 0611, Cell Research, 2023, Dr. 김미랑 [13]
 An invasive zone in human liver cancer identified by Stereo-seq promotes hepatocyte-tumor cell crosstalk, local immunosuppression and tumor progression
 <br> https://pubmed.ncbi.nlm.nih.gov/37337030/
 
-## 0521, Cell, 2020, 곽호경
+## 0521, Cell, 2020, 곽호경 [12]
 Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin
 <br> https://pubmed.ncbi.nlm.nih.gov/33098772/
 
-## 0507, Journal of Hepatology, 2024, 고한용
+## 0507, Journal of Hepatology, 2024, 고한용 [11]
 TRIB3-TRIM8 complex drives NAFLD progression by regulating HNF4α stability
 <br> https://pubmed.ncbi.nlm.nih.gov/38237865/
 
-## 0409, Nature Communications, 2024
+## 0409, Nature Communications, 2024 [10]
 Integrating leiomyoma genetics, epigenomics, and single-cell transcriptomics reveals causal genetic variants, genes, and cell types
 <br> https://pubmed.ncbi.nlm.nih.gov/38326302/
 
-## 0402, Genome Medicine, 2022
+## 0402, Genome Medicine, 2022 [09]
 Genome-wide interrogation of structural variation reveals novel African-specific prostate cancer oncogenic drivers
 <br> https://pubmed.ncbi.nlm.nih.gov/36045381/
 
-## 0326, Nucleic Acids Research, 2024, 윤여경
+## 0326, Nucleic Acids Research, 2024, 윤여경 [08]
 MethMarkerDB: a comprehensive cancer DNA methylation biomarker database
 <br> https://pubmed.ncbi.nlm.nih.gov/37889076/
 
-## 0319, Cell Metabolism, 2023, 
+## 0319, Cell Metabolism, 2023,  [07]
 Hyodeoxycholic acid alleviates non-alcoholic fatty liver disease through modulating the gut-liver axis
 <br> https://pubmed.ncbi.nlm.nih.gov/37591244/
 
-## 0227, Nature, 2023, Dr. 손현암
+## 0227, Nature, 2023, Dr. 손현암 [06]
 Epigenetic regulation during cancer transitions across 11 tumour types
 <br> https://pubmed.ncbi.nlm.nih.gov/37914932/
 
-## 0213, Cell Reports, 2023
+## 0213, Cell Reports, 2023 [05]
 Temporal multimodal single-cell profiling of native hematopoiesis illuminates altered differentiation trajectories with age
 <br> https://pubmed.ncbi.nlm.nih.gov/36961818/
 
-## 0206, Cancer Cell, 2024
+## 0206, Cancer Cell, 2024 [04]
 Interferon-stimulated neutrophils as a predictor of immunotherapy response
 <br> https://pubmed.ncbi.nlm.nih.gov/38181798/
 
-## 0116, Cell, 2023, Dr. 박승진
+## 0116, Cell, 2023, Dr. 박승진 [03]
 Pan-cancer proteogenomics connects oncogenic drivers to functional states
 <br> https://pubmed.ncbi.nlm.nih.gov/37582357/
 
-## 0109, Clinical and Translational Medicine, 2023
+## 0109, Clinical and Translational Medicine, 2023 [02]
 Single-cell transcriptome analysis reveals functional changes in tumour-infiltrating B lymphocytes after chemotherapy in oesophageal squamous cell carcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/36650114/
 
-## 0102, Cell Reports, 2023
+## 0102, Cell Reports, 2023 [01]
 Stomach encyclopedia: Combined single-cell and spatial transcriptomics reveal cell diversity and homeostatic regulation of human stomach
 <br> https://pubmed.ncbi.nlm.nih.gov/37819756/
 
@@ -319,7 +315,7 @@ A pangenome reference of 36 Chinese populations
 Transformer-based biomarker prediction from colorectal cancer histology: A large-scale multicentric study
 <br> https://pubmed.ncbi.nlm.nih.gov/37652006/
 
-## 1031, Nature, 2023,
+## 1031, Nature, 2023, Dr. 김미랑
 Clonal haematopoiesis and risk of chronic liver disease
 <br> https://pubmed.ncbi.nlm.nih.gov/37046084/
 
