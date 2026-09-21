@@ -4,7 +4,15 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
-## XXXX, Cell, Dr.손현암
+## XXXX, Nucleic Acids Research, 윤여경
+Methyl-GP: accurate generic DNA methylation prediction based on a language model and representation learning
+<br>https://pubmed.ncbi.nlm.nih.gov/40156859/
+
+## 0915, Science, Dr.신정원
+Segmental duplications and their variation in a complete human genome
+<br>https://pubmed.ncbi.nlm.nih.gov/35357917/
+
+## 0901, Cell, Dr.손현암
 Multimodal clocks of human aging
 <br>https://pubmed.ncbi.nlm.nih.gov/42105758/
 
@@ -19,6 +27,8 @@ Empowering AI data scientists using a multi-agent LLM framework with self-evolvi
 ## 0714, bioRxiv, 2025, Dr.박승진
 A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction
 <br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
+        
+        
         
         
         
