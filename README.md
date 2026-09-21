@@ -307,23 +307,23 @@ Stomach encyclopedia: Combined single-cell and spatial transcriptomics reveal ce
 
 # 2023
 
-## 1205, Nature Communications, 2023
+## 1205, Nature Communications, 2023, 김지현
 Identifying high-impact variants and genes in exomes of Ashkenazi Jewish inflammatory bowel disease patients
 <br> https://pubmed.ncbi.nlm.nih.gov/37080976/
 
-## 1121, Nature, 2023
+## 1121, Nature, 2023, Dr. 김재윤
 A pangenome reference of 36 Chinese populations
 <br> https://pubmed.ncbi.nlm.nih.gov/37316654/
 
-## 1114, Cancer Cell, 2023
+## 1114, Cancer Cell, 2023, Dr. 김선규
 Transformer-based biomarker prediction from colorectal cancer histology: A large-scale multicentric study
 <br> https://pubmed.ncbi.nlm.nih.gov/37652006/
 
-## 1031, Nature, 2023 
+## 1031, Nature, 2023,
 Clonal haematopoiesis and risk of chronic liver disease
 <br> https://pubmed.ncbi.nlm.nih.gov/37046084/
 
-## 1024, Journal of Hepatology, 2023
+## 1024, Journal of Hepatology, 2023, 고한용
 Intestinal B cells license metabolic T-cell activation in NASH microbiota/antigen-independently and contribute to fibrosis by IgA-FcR signalling
 <br> https://pubmed.ncbi.nlm.nih.gov/37224925/
 
@@ -331,7 +331,7 @@ Intestinal B cells license metabolic T-cell activation in NASH microbiota/antige
 STING inhibits the reactivation of dormant metastasis in lung adenocarcinoma
 <br> https://pubmed.ncbi.nlm.nih.gov/36991128/
 
-## 1010, Nature Communications, 2021
+## 1010, Nature Communications, 2021, 조문정
 Identical twins carry a persistent epigenetic signature of early genome programming
 <br> https://pubmed.ncbi.nlm.nih.gov/34584077/
 
