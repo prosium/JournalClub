@@ -272,15 +272,15 @@ Integrating leiomyoma genetics, epigenomics, and single-cell transcriptomics rev
 Genome-wide interrogation of structural variation reveals novel African-specific prostate cancer oncogenic drivers
 <br> https://pubmed.ncbi.nlm.nih.gov/36045381/
 
-## 0326, Nucleic Acids Research, 2024
+## 0326, Nucleic Acids Research, 2024, 윤여경
 MethMarkerDB: a comprehensive cancer DNA methylation biomarker database
 <br> https://pubmed.ncbi.nlm.nih.gov/37889076/
 
-## 0319, Cell Metabolism, 2023
+## 0319, Cell Metabolism, 2023, 
 Hyodeoxycholic acid alleviates non-alcoholic fatty liver disease through modulating the gut-liver axis
 <br> https://pubmed.ncbi.nlm.nih.gov/37591244/
 
-## 0227, Nature, 2023
+## 0227, Nature, 2023, Dr. 손현암
 Epigenetic regulation during cancer transitions across 11 tumour types
 <br> https://pubmed.ncbi.nlm.nih.gov/37914932/
 
@@ -292,7 +292,7 @@ Temporal multimodal single-cell profiling of native hematopoiesis illuminates al
 Interferon-stimulated neutrophils as a predictor of immunotherapy response
 <br> https://pubmed.ncbi.nlm.nih.gov/38181798/
 
-## 0116, Cell, 2023
+## 0116, Cell, 2023, Dr. 박승진
 Pan-cancer proteogenomics connects oncogenic drivers to functional states
 <br> https://pubmed.ncbi.nlm.nih.gov/37582357/
 
