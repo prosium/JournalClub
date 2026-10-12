@@ -4,7 +4,13 @@ Seon-Young Kim's LAB in KRIBB
 
 # 2026
 
-## XXXX, Nucleic Acids Research, 윤여경 [20]
+## 1013, Nature Communications, 이소연 [21]
+Spatially organized tumor-stroma boundary determines the efficacy of immunotherapy in colorectal cancer patients
+<br>https://pubmed.ncbi.nlm.nih.gov/39592630/
+
+
+
+## 1006, Nucleic Acids Research, 윤여경 [20]
 Methyl-GP: accurate generic DNA methylation prediction based on a language model and representation learning
 <br>https://pubmed.ncbi.nlm.nih.gov/40156859/
 
@@ -27,6 +33,10 @@ Empowering AI data scientists using a multi-agent LLM framework with self-evolvi
 ## 0714, bioRxiv, 2025, Dr.박승진 [15]
 A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction
 <br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
+        
+        
+        
+        
         
 ## 0707, Nature Biotechnology, 2026, Dr.김희진 [14]
 Evolution-guided protein design of IscB for persistent epigenome editing in vivo
