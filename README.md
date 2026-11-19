@@ -3,6 +3,11 @@
 Seon-Young Kim's LAB in KRIBB
 
 # 2026
+
+## 1124, npj Precision Oncology, 정일산 [25]
+Deep learning inference of cell type-specific gene expression from breast tumor histopathology
+<br> https://pubmed.ncbi.nlm.nih.gov/41986599/
+
 ## 1117, Nature, 정유진 [24]
 Mitochondrial metabolism and epigenetic crosstalk drive SASP
 <br>https://pubmed.ncbi.nlm.nih.gov/42527602/
@@ -42,6 +47,8 @@ Empowering AI data scientists using a multi-agent LLM framework with self-evolvi
 ## 0714, bioRxiv, 2025, Dr.박승진 [15]
 A foundational model for joint sequence-function multi-species modeling at scale for long-range genomic prediction
 <br>https://www.biorxiv.org/content/10.64898/2025.12.22.695963v1
+        
+        
         
         
         
